@@ -1,0 +1,189 @@
+{
+  "status": "PASS",
+  "run_time_utc": "2026-11-05T19:58:00.817534+00:00",
+  "tool": "validate_release.py with Python 3.14.0",
+  "files_checked": 28,
+  "errors": [],
+  "warnings": [],
+  "midi_files": [
+    {
+      "path": "midi/z3701-jump-up-bass-hooks-opening/chord_pulse.mid",
+      "bytes": 1237,
+      "sha256": "6269e8ed97369b549f17fca304481c20629084b0abc36c49fef6ba040c3d769c",
+      "errors": []
+    },
+    {
+      "path": "midi/z3701-jump-up-bass-hooks-opening/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "3ce346fdbd5ab91af1f9769fd78f6d067adcb7f0961e34ba0e9dd03e2771be70",
+      "errors": []
+    },
+    {
+      "path": "midi/z3701-jump-up-bass-hooks-opening/drums.mid",
+      "bytes": 2674,
+      "sha256": "845c52fe0ab7c8dcb38fa12651f4b3b6983fc99bfa6496b9cd6655c8071b5641",
+      "errors": []
+    },
+    {
+      "path": "midi/z3701-jump-up-bass-hooks-opening/principal_motif.mid",
+      "bytes": 797,
+      "sha256": "ac87600d3d046e17aca295a87531d0a691169a74caefcf4f307e6a5711403de8",
+      "errors": []
+    },
+    {
+      "path": "midi/z3701-jump-up-bass-hooks-opening/sub_bass.mid",
+      "bytes": 822,
+      "sha256": "dad9954d4064d81d4a03437f3d5064f3d4ada0ff48a7a128ff6e5b087dee69fb",
+      "errors": []
+    },
+    {
+      "path": "midi/z3701-jump-up-bass-hooks-opening/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "a39419505151e99ce7fa19deddf3bab7e89ceef9897eceec47b3bdba408d1af5",
+      "errors": []
+    },
+    {
+      "path": "midi/z3701-jump-up-bass-hooks-opening/z3701-jump-up-bass-hooks-opening-combined.mid",
+      "bytes": 5688,
+      "sha256": "5c13143d2f93f5d32197cfd21dbb6f9297588b2d683efec121b426eab1ef324e",
+      "errors": []
+    },
+    {
+      "path": "midi/z3702-jump-up-bass-hooks-variation/chord_pulse.mid",
+      "bytes": 1237,
+      "sha256": "8b3722e27adf507fde891f176e7063ba003cf6615c2998abe6a0e4456cf96a93",
+      "errors": []
+    },
+    {
+      "path": "midi/z3702-jump-up-bass-hooks-variation/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "c5ebaa5c95b4eb4dd63925420da95d257eab2d02ba86b828f29d8e4c47224ff6",
+      "errors": []
+    },
+    {
+      "path": "midi/z3702-jump-up-bass-hooks-variation/drums.mid",
+      "bytes": 2674,
+      "sha256": "845c52fe0ab7c8dcb38fa12651f4b3b6983fc99bfa6496b9cd6655c8071b5641",
+      "errors": []
+    },
+    {
+      "path": "midi/z3702-jump-up-bass-hooks-variation/principal_motif.mid",
+      "bytes": 797,
+      "sha256": "9788eb14eb11650abb374e9707d30e39ae20ed1aeb5e92dc0e792e357a76c9b5",
+      "errors": []
+    },
+    {
+      "path": "midi/z3702-jump-up-bass-hooks-variation/sub_bass.mid",
+      "bytes": 822,
+      "sha256": "b24f2f4a1adb01c97af456665f54873c6760aede956c1d7b9b69624662bb6fc4",
+      "errors": []
+    },
+    {
+      "path": "midi/z3702-jump-up-bass-hooks-variation/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "bff55c40d4fd7b6a523b8bb1106132c8105680ebf182094c15a5240a214dbb28",
+      "errors": []
+    },
+    {
+      "path": "midi/z3702-jump-up-bass-hooks-variation/z3702-jump-up-bass-hooks-variation-combined.mid",
+      "bytes": 5688,
+      "sha256": "88478ade609cfb61b029b59b367ee89de109886abfb1a7d50c97843e329cc80b",
+      "errors": []
+    },
+    {
+      "path": "midi/z3703-jump-up-bass-hooks-contrast/chord_pulse.mid",
+      "bytes": 1237,
+      "sha256": "7e8209252be822c32a63c13ab4c13c69634aaadddbdb9734ed4012a84259508e",
+      "errors": []
+    },
+    {
+      "path": "midi/z3703-jump-up-bass-hooks-contrast/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "578ca4c5e033424cff02bfe6824482729ab13310b07123dfa635583d269e19ec",
+      "errors": []
+    },
+    {
+      "path": "midi/z3703-jump-up-bass-hooks-contrast/drums.mid",
+      "bytes": 2674,
+      "sha256": "845c52fe0ab7c8dcb38fa12651f4b3b6983fc99bfa6496b9cd6655c8071b5641",
+      "errors": []
+    },
+    {
+      "path": "midi/z3703-jump-up-bass-hooks-contrast/principal_motif.mid",
+      "bytes": 765,
+      "sha256": "defb8c7a90a43fc00e3c2d7869581b0aa112ca10751c31acd153d57bdde6e6c1",
+      "errors": []
+    },
+    {
+      "path": "midi/z3703-jump-up-bass-hooks-contrast/sub_bass.mid",
+      "bytes": 822,
+      "sha256": "1838aadc4f4f0c096d6ca260e11e154c511c21bc734ec5d68640d0280e7a9e7a",
+      "errors": []
+    },
+    {
+      "path": "midi/z3703-jump-up-bass-hooks-contrast/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "88939b1bbf9e5c29d34caf3b732c6859b9cdb4465bc16477242f28ea6b9788ee",
+      "errors": []
+    },
+    {
+      "path": "midi/z3703-jump-up-bass-hooks-contrast/z3703-jump-up-bass-hooks-contrast-combined.mid",
+      "bytes": 5656,
+      "sha256": "0e09f5be030626a5b0ed1dac48bf3a873fc1e09533b00837e921caa5da8f0627",
+      "errors": []
+    },
+    {
+      "path": "midi/z3704-jump-up-bass-hooks-return/chord_pulse.mid",
+      "bytes": 1237,
+      "sha256": "dd1b3ccd3adf72b7f2a93c27d09ad21a6f7133f122e87204cf2aa969a8e17f6a",
+      "errors": []
+    },
+    {
+      "path": "midi/z3704-jump-up-bass-hooks-return/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "42ba10b70e97c277e62a782fd8268283a9783a6153e74ecdb95700356485df34",
+      "errors": []
+    },
+    {
+      "path": "midi/z3704-jump-up-bass-hooks-return/drums.mid",
+      "bytes": 2674,
+      "sha256": "845c52fe0ab7c8dcb38fa12651f4b3b6983fc99bfa6496b9cd6655c8071b5641",
+      "errors": []
+    },
+    {
+      "path": "midi/z3704-jump-up-bass-hooks-return/principal_motif.mid",
+      "bytes": 765,
+      "sha256": "8b5e070357bf9dfe9f5c99f8e8f71664866c8a0b56234e618f5b0d90ef17647b",
+      "errors": []
+    },
+    {
+      "path": "midi/z3704-jump-up-bass-hooks-return/sub_bass.mid",
+      "bytes": 822,
+      "sha256": "2143046423ed3c4319c894d2c90be4a129a0df80bc08b4c71dbb910f467c6778",
+      "errors": []
+    },
+    {
+      "path": "midi/z3704-jump-up-bass-hooks-return/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "5f542951361cb18664c9a36b290f2e4c46039c6eca42ba35d9f54b85e947797b",
+      "errors": []
+    },
+    {
+      "path": "midi/z3704-jump-up-bass-hooks-return/z3704-jump-up-bass-hooks-return-combined.mid",
+      "bytes": 5656,
+      "sha256": "9b386efa799ab26d0f4aebd2af018da32600765fb8d402047c0e6bc9935108dc",
+      "errors": []
+    }
+  ],
+  "duplicate_review": [],
+  "negative_control": {
+    "path": "checks/fixtures/invalid-same-pitch-overlap.mid",
+    "expected_result": "rejected for same-pitch overlap",
+    "passed": true
+  },
+  "limitations": [
+    "Automated technical validation only.",
+    "Nobody auditioned these files.",
+    "Duplicate-motif review is bounded and not exhaustive copyright clearance."
+  ]
+}

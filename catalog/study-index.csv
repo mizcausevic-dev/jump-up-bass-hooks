@@ -1,0 +1,5 @@
+study_id,title,collection,tonic,tempo_bpm,meter,ppq,bars,end_tick,combined_path,roles
+z3701,Jump-Up Bass Hooks Opening,pack-local equal-tempered pitch collection,A,174,4/4,480,32,61440,midi/z3701-jump-up-bass-hooks-opening/z3701-jump-up-bass-hooks-opening-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+z3702,Jump-Up Bass Hooks Variation,pack-local equal-tempered pitch collection,C,174,4/4,480,32,61440,midi/z3702-jump-up-bass-hooks-variation/z3702-jump-up-bass-hooks-variation-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+z3703,Jump-Up Bass Hooks Contrast,pack-local equal-tempered pitch collection,D#,174,4/4,480,32,61440,midi/z3703-jump-up-bass-hooks-contrast/z3703-jump-up-bass-hooks-contrast-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+z3704,Jump-Up Bass Hooks Return,pack-local equal-tempered pitch collection,A#,174,4/4,480,32,61440,midi/z3704-jump-up-bass-hooks-return/z3704-jump-up-bass-hooks-return-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums

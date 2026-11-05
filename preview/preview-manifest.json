@@ -1,0 +1,30 @@
+{
+  "label": "preview, not a master.",
+  "preview_path": "preview/jump-up-bass-hooks-simple-synth-preview.mp3",
+  "preview_sha256": "e20b3724ed7ae694c554b415a1967120ee99a3e534ab2e869d513908b783fc00",
+  "source_midi_path": "midi/z3701-jump-up-bass-hooks-opening/z3701-jump-up-bass-hooks-opening-combined.mid",
+  "source_midi_sha256": "5c13143d2f93f5d32197cfd21dbb6f9297588b2d683efec121b426eab1ef324e",
+  "renderer": "release-simple-synth 1.0.0",
+  "renderer_configuration": {
+    "sample_rate": 44100,
+    "source_tracks": [
+      "chord_pulse",
+      "counter_texture",
+      "drums",
+      "principal_motif",
+      "sub_bass",
+      "vocal_like_synth"
+    ],
+    "processing": "Per-voice synthesis and envelopes; summed samples are clamped to +/-0.95, converted to 16-bit stereo PCM and encoded to 192 kb/s MP3."
+  },
+  "selection": {
+    "study": "z3701",
+    "start_seconds": 0,
+    "end_seconds": 44.138
+  },
+  "measurement": {
+    "sample_peak": 0.092647,
+    "not_lufs_or_true_peak": true
+  },
+  "limitations": "Automated generation and decode checks only. Nobody auditioned this simple-synthesis preview. It is not a finished-production sound or master."
+}

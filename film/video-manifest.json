@@ -1,0 +1,26 @@
+{
+  "title": "Jump-Up Bass Hooks",
+  "study": "z3701",
+  "bpm": 174,
+  "source_audio": "preview/jump-up-bass-hooks-simple-synth-preview.mp3",
+  "source_audio_sha256": "e20b3724ed7ae694c554b415a1967120ee99a3e534ab2e869d513908b783fc00",
+  "source_midi": "midi/z3701-jump-up-bass-hooks-opening/z3701-jump-up-bass-hooks-opening-combined.mid",
+  "source_midi_sha256": "5c13143d2f93f5d32197cfd21dbb6f9297588b2d683efec121b426eab1ef324e",
+  "source_events": "catalog/note-events.csv",
+  "source_events_sha256": "9c237f12cbc562528419597328baf20b10597d6d9efff6a17717e84bb64643ea",
+  "art_source_file": "art/hero.jpg",
+  "art_source_sha256": "ea20c5449a9027452ac661830e637e9907d10d4de87c2030ee7b6a7be7911947",
+  "excerpt_start_seconds": 0,
+  "duration_seconds": 18.0,
+  "video": "film/preview.mp4",
+  "video_sha256": "1fc57ea46f596dc82a475f325a3c90a1b3bfa12af26ae3087bf774c6f5e061d2",
+  "caption": "film/preview.vtt",
+  "resolution": "960x540",
+  "fps": 15,
+  "visualization": "Scrolling note events from the selected score over a moving cover image",
+  "disclosure": "preview, not master",
+  "limitations": [
+    "Simple-synth rendering, not a recorded performance.",
+    "No human listening review recorded."
+  ]
+}
