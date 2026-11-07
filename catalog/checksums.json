@@ -198,8 +198,8 @@
     },
     {
       "path": "downloads/jump-up-bass-hooks-midi.zip",
-      "bytes": 31008,
-      "sha256": "fd188553ef5cb291005046b49eda35407e23592fe82cb49c55f3d415767b0792"
+      "bytes": 31995,
+      "sha256": "429554d0d5ca2fed3671f03abb7c200c175d35c222a44c692b78a6dd6a71d2e6"
     },
     {
       "path": "film/motion-note-roll.png",
@@ -233,8 +233,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 9876,
-      "sha256": "5320bb6d4749b6742263f406ef9fe2cc274ade3dd0d78a1355a45f0999a04a92"
+      "bytes": 10066,
+      "sha256": "241e8229cf54356e0b1f530f685641651f790ec8ef62e1713bd317565f4e7c59"
     },
     {
       "path": "midi/z3701-jump-up-bass-hooks-opening/chord_pulse.mid",
@@ -377,6 +377,11 @@
       "sha256": "9b386efa799ab26d0f4aebd2af018da32600765fb8d402047c0e6bc9935108dc"
     },
     {
+      "path": "MIDI-BUYER-LICENSE-v1.0.txt",
+      "bytes": 1652,
+      "sha256": "1111ca6dd4ca4ff4163f199fae341ff54ca3715acc3cf19ca332f2f6e58c36c9"
+    },
+    {
       "path": "preview/jump-up-bass-hooks-simple-synth-preview.mp3",
       "bytes": 1072736,
       "sha256": "e20b3724ed7ae694c554b415a1967120ee99a3e534ab2e869d513908b783fc00"
@@ -388,8 +393,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 3946,
-      "sha256": "f2a5fc2b28c0f92d627b8a9abd8fda571b3885c31288a97d31e9919f23a972c0"
+      "bytes": 4061,
+      "sha256": "ee0c36307553cd56b47d6160f7c7d7b0ddb2aa5f3c87e85efd1d561d303e2182"
     },
     {
       "path": "social/instagram/caption.txt",
